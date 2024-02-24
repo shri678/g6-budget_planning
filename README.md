@@ -5,6 +5,7 @@ _This is just a suggested template for the README of your project, feel free to 
 - Name 1 (Project Lead)
 - Shrinaath Narasimhan
 - Timothy Chen
+- Ting Chang
 
 ### Project Description
 Describe the goal of your project here.
