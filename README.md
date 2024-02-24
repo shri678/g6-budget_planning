@@ -1,7 +1,7 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
 # \[Budget Planning\]
 
-### Team Members
+### Dollar Dynasty Members
 - Name 1 (Project Lead)
 - Shrinaath Narasimhan
 - Timothy Chen
